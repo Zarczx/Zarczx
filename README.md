@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif?v=2" alt="Animated fantasy banner" width="100%" />
+<img src="./banner.gif" alt="Animated fantasy banner" width="100%" />
 </div>
 
 # 💫 About Me:
